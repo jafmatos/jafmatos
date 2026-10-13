@@ -136,7 +136,7 @@
     <!-- Projeto Mobile / Finanças Pessoais -->
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jafmatos/orca-mobile">Orça - Mobile</a></h3>
-      <p>Aplicativo de finanças pessoais desenvolvido com <strong>React Native</strong> e <strong>Expo</strong>, contando com roteamento moderno via Expo Router, gráficos avançados com <strong>Shopify Skia</strong> e gerenciamento de estado com <strong>TanStack Query</strong>.</p>
+      <p>Aplicativo de finanças pessoais desenvolvido com <strong>React Native</strong> e <strong>Expo</strong>, contando com roteamento moderno via Expo Router, gráficos avançados com <strong>React Native Gifted Charts</strong> e gerenciamento de estado com <strong>TanStack Query</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
