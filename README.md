@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -92,27 +93,26 @@
         </a>
       </p>
     </td>
-    <!-- Projeto Mobile / Open Source -->
+    <!-- Projeto Deep Learning / Visão Computacional -->
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jafmatos/jam-bottomsheet">jam-bottomsheet</a></h3>
-      <p>Biblioteca de <em>bottom sheet</em> para <strong>React Native</strong> altamente customizável, focada em alta performance, gestos fluidos com Reanimated e comportamento adaptativo para teclado.</p>
+      <h3><a href="https://github.com/jafmatos/studying-deep-learning">AgroVision — Classificação Foliar</a></h3>
+      <p>Sistema de visão computacional e redes convolucionais (CNN) desenvolvido com <strong>PyTorch</strong> para diagnóstico e classificação de patologias em folhas, incluindo pipeline de treinamento e interface em <strong>Streamlit</strong>.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
       </p>
       <p>
-        <a href="https://www.npmjs.com/package/jam-bottomsheet">
-          <img src="https://img.shields.io/npm/v/jam-bottomsheet?color=blue&style=flat-square" alt="npm version" />
+        <a href="https://github.com/jafmatos/studying-deep-learning">
+          <img src="https://img.shields.io/github/stars/jafmatos/studying-deep-learning?style=flat-square" alt="stars" />
         </a>
-        <a href="https://www.npmjs.com/package/jam-bottomsheet">
-          <img src="https://img.shields.io/npm/dm/jam-bottomsheet?color=2e6f40&style=flat-square" alt="npm downloads" />
-        </a>
-        <a href="https://github.com/jafmatos/jam-bottomsheet">
-          <img src="https://img.shields.io/github/stars/jafmatos/jam-bottomsheet?style=flat-square" alt="stars" />
+        <a href="https://github.com/jafmatos/studying-deep-learning/fork">
+          <img src="https://img.shields.io/github/forks/jafmatos/studying-deep-learning?style=flat-square" alt="forks" />
         </a>
       </p>
     </td>
   </tr>
+ 
   <tr>
     <!-- Projeto Backend / Finanças & IA -->
     <td width="50%" valign="top">
@@ -136,7 +136,7 @@
     <!-- Projeto Mobile / Finanças Pessoais -->
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jafmatos/orca-mobile">Orça - Mobile</a></h3>
-      <p>Aplicativo de finanças pessoais desenvolvido com <strong>React Native</strong> e <strong>Expo</strong>, contando com roteamento moderno via Expo Router, gráficos avançados com <strong>React Native Gifted Charts</strong> e gerenciamento de estado com <strong>TanStack Query</strong>.</p>
+      <p>Aplicativo de finanças pessoais desenvolvido com <strong>React Native</strong> e <strong>Expo</strong>, contando com roteamento moderno via Expo Router, gráficos avançados com <strong>Shopify Skia</strong> e gerenciamento de estado com <strong>TanStack Query</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
@@ -152,7 +152,29 @@
       </p>
     </td>
   </tr>
-</table>
+   <tr>
+    <!-- Projeto Mobile / Open Source -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jafmatos/jam-bottomsheet">jam-bottomsheet</a></h3>
+      <p>Biblioteca de <em>bottom sheet</em> para <strong>React Native</strong> altamente customizável, focada em alta performance, gestos fluidos com Reanimated e comportamento adaptativo para teclado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <a href="https://www.npmjs.com/package/jam-bottomsheet">
+          <img src="https://img.shields.io/npm/v/jam-bottomsheet?color=blue&style=flat-square" alt="npm version" />
+        </a>
+        <a href="https://www.npmjs.com/package/jam-bottomsheet">
+          <img src="https://img.shields.io/npm/dm/jam-bottomsheet?color=2e6f40&style=flat-square" alt="npm downloads" />
+        </a>
+        <a href="https://github.com/jafmatos/jam-bottomsheet">
+          <img src="https://img.shields.io/github/stars/jafmatos/jam-bottomsheet?style=flat-square" alt="stars" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  </table>
 
 ---
 
