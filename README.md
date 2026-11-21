@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -74,22 +75,22 @@
 
 <table>
   <tr>
-    <!-- Projeto de Dados / Machine Learning -->
+    <!-- Projeto Visão Computacional / IoT -->
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jafmatos/ga4_churn_predictor">Preditor de Churn GA4</a></h3>
-      <p>Sistema preditivo de <em>churn</em> (evasão de usuários) treinado com dados de eventos do <strong>Google Analytics 4</strong> via <strong>BigQuery</strong>, integrando pipeline com <strong>Scikit-Learn</strong>, API de inferência em <strong>FastAPI</strong> e painel analítico interativo em <strong>Streamlit</strong>.</p>
+      <h3><a href="https://github.com/jafmatos/cv_fire_alarm">Sentinela — Detecção de Incêndio & IoT</a></h3>
+      <p>Sistema de visão computacional para detecção precoce de fogo e fumaça em áreas abertas com <strong>YOLOv8</strong> (segmentação), inferência otimizada via <strong>ONNX Runtime</strong> e <strong>OpenCV</strong>, e acionamento autônomo de alarme via <strong>ESP32 / IoT</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
       </p>
       <p>
-        <a href="https://github.com/jafmatos/ga4_churn_predictor">
-          <img src="https://img.shields.io/github/stars/jafmatos/ga4_churn_predictor?style=flat-square" alt="stars" />
+        <a href="https://github.com/jafmatos/cv_fire_alarm">
+          <img src="https://img.shields.io/github/stars/jafmatos/cv_fire_alarm?style=flat-square" alt="stars" />
         </a>
-        <a href="https://github.com/jafmatos/ga4_churn_predictor/fork">
-          <img src="https://img.shields.io/github/forks/jafmatos/ga4_churn_predictor?style=flat-square" alt="forks" />
+        <a href="https://github.com/jafmatos/cv_fire_alarm/fork">
+          <img src="https://img.shields.io/github/forks/jafmatos/cv_fire_alarm?style=flat-square" alt="forks" />
         </a>
       </p>
     </td>
@@ -113,6 +114,48 @@
     </td>
   </tr>
  
+  <tr>
+    <!-- Projeto de Dados / Machine Learning -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jafmatos/ga4_churn_predictor">Preditor de Churn GA4</a></h3>
+      <p>Sistema preditivo de <em>churn</em> (evasão de usuários) treinado com dados de eventos do <strong>Google Analytics 4</strong> via <strong>BigQuery</strong>, integrando pipeline com <strong>Scikit-Learn</strong>, API de inferência em <strong>FastAPI</strong> e painel analítico interativo em <strong>Streamlit</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </p>
+      <p>
+        <a href="https://github.com/jafmatos/ga4_churn_predictor">
+          <img src="https://img.shields.io/github/stars/jafmatos/ga4_churn_predictor?style=flat-square" alt="stars" />
+        </a>
+        <a href="https://github.com/jafmatos/ga4_churn_predictor/fork">
+          <img src="https://img.shields.io/github/forks/jafmatos/ga4_churn_predictor?style=flat-square" alt="forks" />
+        </a>
+      </p>
+    </td>
+    <!-- Projeto Mobile / Open Source -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jafmatos/jam-bottomsheet">jam-bottomsheet</a></h3>
+      <p>Biblioteca de <em>bottom sheet</em> para <strong>React Native</strong> altamente customizável, focada em alta performance, gestos fluidos com Reanimated e comportamento adaptativo para teclado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <a href="https://www.npmjs.com/package/jam-bottomsheet">
+          <img src="https://img.shields.io/npm/v/jam-bottomsheet?color=blue&style=flat-square" alt="npm version" />
+        </a>
+        <a href="https://www.npmjs.com/package/jam-bottomsheet">
+          <img src="https://img.shields.io/npm/dm/jam-bottomsheet?color=2e6f40&style=flat-square" alt="npm downloads" />
+        </a>
+        <a href="https://github.com/jafmatos/jam-bottomsheet">
+          <img src="https://img.shields.io/github/stars/jafmatos/jam-bottomsheet?style=flat-square" alt="stars" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
   <tr>
     <!-- Projeto Backend / Finanças & IA -->
     <td width="50%" valign="top">
@@ -152,29 +195,7 @@
       </p>
     </td>
   </tr>
-   <tr>
-    <!-- Projeto Mobile / Open Source -->
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jafmatos/jam-bottomsheet">jam-bottomsheet</a></h3>
-      <p>Biblioteca de <em>bottom sheet</em> para <strong>React Native</strong> altamente customizável, focada em alta performance, gestos fluidos com Reanimated e comportamento adaptativo para teclado.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
-      <p>
-        <a href="https://www.npmjs.com/package/jam-bottomsheet">
-          <img src="https://img.shields.io/npm/v/jam-bottomsheet?color=blue&style=flat-square" alt="npm version" />
-        </a>
-        <a href="https://www.npmjs.com/package/jam-bottomsheet">
-          <img src="https://img.shields.io/npm/dm/jam-bottomsheet?color=2e6f40&style=flat-square" alt="npm downloads" />
-        </a>
-        <a href="https://github.com/jafmatos/jam-bottomsheet">
-          <img src="https://img.shields.io/github/stars/jafmatos/jam-bottomsheet?style=flat-square" alt="stars" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  </table>
+</table>
 
 ---
 
